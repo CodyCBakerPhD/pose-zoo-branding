@@ -1,2 +1,3 @@
-# pose-zoo-branding
+# Pose Zoo branding
+
 Branding for Pose Zoo.
