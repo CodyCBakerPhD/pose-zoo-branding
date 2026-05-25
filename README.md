@@ -1,3 +1,3 @@
-# Pose Zoo (branding)
+# Pozu (branding)
 
-Branding for Pose Zoo.
+Branding for Pozu.
